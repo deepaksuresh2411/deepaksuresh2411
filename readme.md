@@ -23,11 +23,6 @@ When I'm not typing away at my keyboard, you can find me exploring the latest te
 - GitHub Actions 🏃
 - REST APIs 🌐
 
-## Projects Showcase 🚀
-
-- [Project 1](link): Description of project 1.
-- [Project 2](link): Description of project 2.
-
 ## Let's Connect! ☕
 
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/deepak-suresh-180435197/)
