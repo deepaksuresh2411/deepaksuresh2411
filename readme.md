@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Deepak Suresh
 
-- 🚀 Software Engineer at [Zelthy](https://www.zelthy.com/)
+- 🚀 Software Engineer at [Zelthy](https://www.instahyre.com/)
 - 💻 Backend Wizard | Python/Django Aficionado
 - 🌟 3 years of coding adventures and still counting!
 
