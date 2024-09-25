@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Deepak Suresh
 
-- 🚀 Software Engineer at [Instahyre](https://www.instahyre.com/)
+- 🚀 Software Engineer
 - 💻 Backend Wizard | Python/Django Aficionado
 - 🌟 3 years of coding adventures and still counting!
 
