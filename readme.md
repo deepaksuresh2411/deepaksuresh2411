@@ -1,28 +1,26 @@
 # Hi there! 👋 I'm Deepak Suresh
 
 - 🚀 Software Engineer
-- 💻 Backend Wizard | Python/Django Aficionado
+- 💻 Backend Wizard
 - 🌟 3 years of coding adventures and still counting!
 
 ## About Me
 
-Welcome to my little corner of the coding universe! I'm Deepak, a passionate software engineer who thrives on backend technologies and loves bringing ideas to life through code. Whether it's crafting elegant Python scripts or orchestrating complex systems with Django, I'm always up for the challenge!
+Welcome to my little corner of the coding universe! I'm Deepak, a passionate software engineer who thrives on backend technologies and loves bringing ideas to life through code. Whether it's crafting elegant scripts or orchestrating complex systems, I'm always up for the challenge!
 
 
 ## My Superpowers 💪
 
 - Python 🐍
-- Django 🎸
-- JavaScript 💻
+- Go 🐰
 - SQL 🗃️
+- Django 🎸
 - AWS ☁️
-- Apache Kafka 🚀
+- MongoDB 🗃️
 - Redis 🔄
 - Celery 🌱
 - Docker 🐳
 - GitHub Actions 🏃
-- HTML 🌐
-- CSS 🎨
 - REST APIs 🌐
  
 ## Let's Connect! ☕
