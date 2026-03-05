@@ -2,7 +2,7 @@
 
 - 🚀 Software Engineer
 - 💻 Backend Wizard
-- 🌟 3 years of coding adventures and still counting!
+- 🌟 4+ years of coding adventures and still counting!
 
 ## About Me
 
